@@ -65,7 +65,7 @@
     "skipperjs"
   ],
   "license": "ISC",
-  "main": "example.js",
+  "main": "skipper.js",
   "maintainers": [
     {
       "name": "marco5d",
