@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "skipperjs",
+        "scope": null,
+        "escapedName": "skipperjs",
+        "name": "skipperjs",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/Users/jesusmarcodelcarmen/Desktop/skipperjs"
+    ]
+  ],
+  "_from": "skipperjs@latest",
+  "_id": "skipperjs@1.0.0",
+  "_inCache": true,
+  "_location": "/skipperjs",
+  "_nodeVersion": "6.9.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/skipperjs-1.0.0.tgz_1478189460589_0.46375972405076027"
+  },
+  "_npmUser": {
+    "name": "marco5d",
+    "email": "jmdc@my.coderv.org"
+  },
+  "_npmVersion": "3.10.9",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "skipperjs",
+    "scope": null,
+    "escapedName": "skipperjs",
+    "name": "skipperjs",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/skipperjs/-/skipperjs-1.0.0.tgz",
+  "_shasum": "faf0a9a6ee9b14ac8ff548e87d2160c51ee5e3c0",
+  "_shrinkwrap": null,
+  "_spec": "skipperjs",
+  "_where": "/Users/jesusmarcodelcarmen/Desktop/skipperjs",
+  "author": {
+    "name": "Marco del Carmen"
+  },
+  "bugs": {
+    "url": "https://github.com/jmdelcarmen/skipperjs/issues"
+  },
+  "dependencies": {},
+  "description": "Alternative to left-pad",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "faf0a9a6ee9b14ac8ff548e87d2160c51ee5e3c0",
+    "tarball": "https://registry.npmjs.org/skipperjs/-/skipperjs-1.0.0.tgz"
+  },
+  "gitHead": "d6cd5ae989c6575a2f1680504cc521b6670339a0",
+  "homepage": "https://github.com/jmdelcarmen/skipperjs#readme",
+  "keywords": [
+    "skipperjs"
+  ],
+  "license": "ISC",
+  "main": "example.js",
+  "maintainers": [
+    {
+      "name": "marco5d",
+      "email": "jmdc@my.coderv.org"
+    }
+  ],
+  "name": "skipperjs",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmdelcarmen/skipperjs.git"
+  },
+  "scripts": {
+    "test": "node example.js"
+  },
+  "version": "1.0.0"
+}
